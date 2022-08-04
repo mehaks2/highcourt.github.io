@@ -5,7 +5,7 @@ const Sidebar=()=>{
 
 		<>
 		
-			<nav className="navbar navbar-expand-sm bg-dark navbar-dark justify-content-center">
+			<nav className="navbar navbar-expand-sm bg-primary navbar-dark justify-content-center">
 				
 				<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar1">
 				  <span className="navbar-toggler-icon"></span>
