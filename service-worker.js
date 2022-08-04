@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/highcourt.github.io/precache-manifest.5d2f96dedc689c8e3d0e30cd12c21949.js"
+  "/highcourt.github.io/precache-manifest.b0946c10a379103c755de2020ed85a78.js"
 );
 
 workbox.clientsClaim();

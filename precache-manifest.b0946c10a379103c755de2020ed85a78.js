@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0b3200b038bf05bc310d",
+    "revision": "25d499b501061b61f32f",
     "url": "/highcourt.github.io/static/css/main.8d9ed34c.chunk.css"
   },
   {
-    "revision": "0b3200b038bf05bc310d",
-    "url": "/highcourt.github.io/static/js/main.0b3200b0.chunk.js"
+    "revision": "25d499b501061b61f32f",
+    "url": "/highcourt.github.io/static/js/main.25d499b5.chunk.js"
   },
   {
     "revision": "6a7bfa4df9242b40edff",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/highcourt.github.io/static/js/runtime~main.9a5613c2.js"
   },
   {
-    "revision": "8582c99bdc56409e13b969cd28482115",
+    "revision": "f81c35060772d790c46130a423234973",
     "url": "/highcourt.github.io/index.html"
   }
 ];
