@@ -30,7 +30,7 @@ import React , { Component}  from 'react';
 								<a id="btn-increase" className="btn btn-black btn-circle btn-sm  btn-sm my-4 mx-0 mx-lg-1" href="#">A+</a>
 							</li>
 							<li className="nav-item  d-sm-block d-lg-block">
-								<a id="btn-light" className="btn btn-light btn-outline-dark  btn-sm  btn-sm my-4 mx-0 mx-lg-1" href="#" onclick="change_contrast('light')">A</a>
+								<a id="btn-light" className="btn btn-light btn-outline-dark  btn-sm  btn-sm my-4 mx-0 mx-lg-1" href="#" >A</a>
 							</li>
 							<li className="nav-item  d-sm-block d-lg-block">
 								<a id="btn-dark" className="btn btn-black  btn-sm  btn-sm my-4 mx-0 mx-lg-1" href="#" onclick="change_contrast('dark')">A</a>
