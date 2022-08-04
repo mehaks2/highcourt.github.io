@@ -7,7 +7,7 @@ import React , { Component}  from 'react';
 					<div className='col-md-3 col-3'>
 						<div className='logo'>
 							<a href="" title="Home" rel="home" className="header__logo" id="logo">
-								<img className="national_emblem" src="/GoI-logo.svg" alt="national emblem" />
+								<img className="national_emblem" src="./GoI-logo.svg" alt="national emblem" />
 								HIGH COURT OF <span>Punjab and Haryana</span>
 							</a>
 						</div>
