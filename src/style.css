@@ -1,0 +1,71 @@
+.logo {
+    min-width: 345px;
+}
+.logo img {
+    float: left;
+    
+    padding: 0 15px 0 5px;
+}
+.logo {
+    float: left;
+    font-size: 110%;
+    line-height: 105%;
+    padding: 8px 0 5px 2px;
+    text-transform: uppercase;
+}
+.logo a {
+    color: #000;
+	text-decoration: none;
+}
+.logo a strong {
+    font-weight: 600;
+    display: block;
+    font-size: 80%;
+}
+.logo a span {
+    display: block;
+    font-weight: 900;
+    font-size: 130%;
+	color: #082281;
+	line-height: 115%;
+}
+.logo a {
+    display: block;
+    text-align: left;
+}
+.btn-gray{
+	background: #CCC;
+	color: #fff;
+}
+.btn-black{
+	background: #353535;
+	color: #fff;
+}
+
+.btn-black:hover{
+	background: #000;
+	color: #fff;
+}
+
+
+
+.btn-circle.btn-sm { 
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	line-height: 100%;
+	text-align: center;
+	padding: 4px;
+	margin-left: 2px;
+	margin-top: 1px;
+	list-style-type: none;
+} 
+
+.navbar-collapse{
+	flex-grow:0;
+}
+.middleText{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
